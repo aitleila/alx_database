@@ -2,3 +2,4 @@
 
 SELECT*
 FROM TABLE first_table;
+WHERE RAW
