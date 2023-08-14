@@ -1,4 +1,4 @@
 -- script that lists all the tables of a database:
 
-SELECT* FROM mysql WHERE tables;
+SELECT* FROM hbtn_0c_0 WHERE tables;
 
