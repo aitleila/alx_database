@@ -1,4 +1,4 @@
 -- script that lists all the tables of a database:
 
-SELECT* FROM hbtn_0c_0 WHERE tables;
+SELECT* FROM holbteron WHERE tables;
 
