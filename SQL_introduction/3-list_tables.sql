@@ -1,4 +1,4 @@
 -- script that lists all the tables of a database:
 
-SELECT* FROM holbteron WHERE tables;
+SELECT* FROM hlocalhost; uroot; p(mysql) WHERE tables;
 
