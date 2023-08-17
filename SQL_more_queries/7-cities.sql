@@ -1,7 +1,6 @@
 -- Script that creates the database hbtn_0d_usa and the table cities:
 
-CREATE DATABASE 
-    IF NOT EXISTS hbtn_0d_usa;
+CREATE DATABASE IF NOT EXISTS hbtn_0d_usa;
 
 --Usage of the database:
 USE hbtn_0d_usa;
