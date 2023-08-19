@@ -2,8 +2,6 @@
 
 CREATE DATABASE IF NOT EXISTS hbtn_0d_2;
 
-USE my_sql;
-
 --Create the user and set the password:
 
 CREATE USER IF NOT EXISTS 'user_0d_2'@'localhost';
